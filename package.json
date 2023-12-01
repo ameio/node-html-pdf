@@ -1,6 +1,6 @@
 {
 	"name": "@ameio/html-to-pdf",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "HTML to PDF generator package",
 	"main": "./dist/app.js",
 	"scripts": {
